@@ -1,0 +1,15 @@
+<h2>Add New Book</h2>
+<form action="/books/add" method="POST">
+    <label for="title">Title:</label>
+    <input type="text" name="title" id="title" required>
+    <label for="author">Author:</label>
+    <input type="text" name="author" id="author" required>
+    <label for="genre">Genre:</label>
+    <input type="text" name="genre" id="genre">
+    <label for="year">Year:</label>
+    <input type="number" name="year" id="year">
+    <label for="available">Available:</label>
+    <input type="checkbox" name="available" id="available" checked>
+    <button type="submit">Add Book</button>
+</form>
+<a href="/books">Back to Book List</a>.

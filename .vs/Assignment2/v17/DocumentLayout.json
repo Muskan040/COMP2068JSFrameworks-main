@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\services\\crudoperationsinhoteldataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\services\\crudoperationsinhoteldataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\usercontrols\\adminuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\usercontrols\\adminuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\usercontrols\\adminuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\usercontrols\\adminuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\viewmodels\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\viewmodels\\roomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\usercontrols\\roomuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\usercontrols\\roomuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|c:\\users\\grinishpatel\\downloads\\assignment2\\assignment2\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22D7BC0-A929-438B-81BC-C64176213F71}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminUC.xaml",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\UserControls\\AdminUC.xaml",
+              "RelativeDocumentMoniker": "Assignment2\\UserControls\\AdminUC.xaml",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\UserControls\\AdminUC.xaml",
+              "RelativeToolTip": "Assignment2\\UserControls\\AdminUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T20:44:53.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T20:38:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAODMzMzMbwBwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:38:39.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\ViewModels\\RoomViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment2\\ViewModels\\RoomViewModel.cs",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\ViewModels\\RoomViewModel.cs",
+              "RelativeToolTip": "Assignment2\\ViewModels\\RoomViewModel.cs",
+              "ViewState": "AQIAAEgAAACAm5mZmZkjwB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:38:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\UserControls\\AdminUC.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment2\\UserControls\\AdminUC.xaml.cs",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\UserControls\\AdminUC.xaml.cs",
+              "RelativeToolTip": "Assignment2\\UserControls\\AdminUC.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAamZmZmYUwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:38:06.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomUC.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\UserControls\\RoomUC.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment2\\UserControls\\RoomUC.xaml.cs",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\UserControls\\RoomUC.xaml.cs",
+              "RelativeToolTip": "Assignment2\\UserControls\\RoomUC.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAABgvQAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:38:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudOperationsInHotelDataSet.cs",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\Services\\CrudOperationsInHotelDataSet.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Services\\CrudOperationsInHotelDataSet.cs",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\Services\\CrudOperationsInHotelDataSet.cs",
+              "RelativeToolTip": "Assignment2\\Services\\CrudOperationsInHotelDataSet.cs",
+              "ViewState": "AQIAACQAAACAj5mZmZkpwBgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T20:13:25.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\App.config",
+              "RelativeDocumentMoniker": "Assignment2\\App.config",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\App.config",
+              "RelativeToolTip": "Assignment2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-12T19:58:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\GrinishPatel\\Downloads\\Assignment2\\Assignment2\\Models\\Room.cs",
+              "RelativeToolTip": "Assignment2\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:24:49.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
